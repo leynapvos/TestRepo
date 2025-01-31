@@ -1,0 +1,7 @@
+# Basic Git Commands:
+git init - Initialize a new Git repository  
+git add . - Stage all changes  
+git commit -m "Commit message" - Commit staged changes  
+git branch - Create, list, or delete branches  
+git checkout - Switch between branches  
+git merge - Merge branches  
